@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Criando o array com 5 processos
+        
         Processo[] processos = new Processo[5];
 
         processos[0] = new Processo("Cadastro", 3);
